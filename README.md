@@ -48,6 +48,3 @@ Integration with web app/Chrome extension for real-world usage.
 
 Hugging Face Transformers Documentation
 LoRA: Low-Rank Adaptation of LLMs
-Datasets: Wikipedia Dumps
-, CNN/DailyMail
-, TinyStories
